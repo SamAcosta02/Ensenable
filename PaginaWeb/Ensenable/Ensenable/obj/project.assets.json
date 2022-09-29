@@ -8,26 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Samuel Acosta\\.nuget\\packages\\": {}
+    "/Users/alexliz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samuel Acosta\\Documents\\CuartoSemestre\\Enseñable\\Ensenable\\PaginaWeb\\Ensenable\\Ensenable\\Ensenable.csproj",
+      "projectUniqueName": "/Users/alexliz/Documents/!Clases/!p2_s3/Construccion/Repo/Ensenable/PaginaWeb/Ensenable/Ensenable/Ensenable.csproj",
       "projectName": "Ensenable",
-      "projectPath": "C:\\Users\\Samuel Acosta\\Documents\\CuartoSemestre\\Enseñable\\Ensenable\\PaginaWeb\\Ensenable\\Ensenable\\Ensenable.csproj",
-      "packagesPath": "C:\\Users\\Samuel Acosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samuel Acosta\\Documents\\CuartoSemestre\\Enseñable\\Ensenable\\PaginaWeb\\Ensenable\\Ensenable\\obj\\",
+      "projectPath": "/Users/alexliz/Documents/!Clases/!p2_s3/Construccion/Repo/Ensenable/PaginaWeb/Ensenable/Ensenable/Ensenable.csproj",
+      "packagesPath": "/Users/alexliz/.nuget/packages/",
+      "outputPath": "/Users/alexliz/Documents/!Clases/!p2_s3/Construccion/Repo/Ensenable/PaginaWeb/Ensenable/Ensenable/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Samuel Acosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/alexliz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,12 +55,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.28, 3.1.28]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -70,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
