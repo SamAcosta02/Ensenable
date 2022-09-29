@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dgyEoxuB9tOV9fbu6AE/FLIlV9z5bp8XOEnL7nRHXK78/E99Sf+HOfAbvyLDF4Gu9QYBFz4/BQvwpUAPX+07eg==",
+  "dgSpecHash": "1VW8TAeWBnK0knkqFOFjGNRWRqu/FJ2tDCnOy8m85JuM7Hn1/hjRXL40c80JCcutjWk/zW+7fwhNXG0hC9Q6Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samuel Acosta\\source\\repos\\Ensenable\\Ensenable\\Ensenable.csproj",
+  "projectFilePath": "C:\\Users\\Samuel Acosta\\Documents\\CuartoSemestre\\Enseñable\\Ensenable\\PaginaWeb\\Ensenable\\Ensenable\\Ensenable.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samuel Acosta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
   ],

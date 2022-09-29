@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samuel Acosta\\source\\repos\\Ensenable\\Ensenable\\Ensenable.csproj",
+      "projectUniqueName": "C:\\Users\\Samuel Acosta\\Documents\\CuartoSemestre\\Enseñable\\Ensenable\\PaginaWeb\\Ensenable\\Ensenable\\Ensenable.csproj",
       "projectName": "Ensenable",
-      "projectPath": "C:\\Users\\Samuel Acosta\\source\\repos\\Ensenable\\Ensenable\\Ensenable.csproj",
+      "projectPath": "C:\\Users\\Samuel Acosta\\Documents\\CuartoSemestre\\Enseñable\\Ensenable\\PaginaWeb\\Ensenable\\Ensenable\\Ensenable.csproj",
       "packagesPath": "C:\\Users\\Samuel Acosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samuel Acosta\\source\\repos\\Ensenable\\Ensenable\\obj\\",
+      "outputPath": "C:\\Users\\Samuel Acosta\\Documents\\CuartoSemestre\\Enseñable\\Ensenable\\PaginaWeb\\Ensenable\\Ensenable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samuel Acosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
